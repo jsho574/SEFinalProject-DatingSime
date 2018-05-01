@@ -1,0 +1,95 @@
+MainChar:It's your first day at Generic High School
+MainChar:The next step in your school career starts here
+Java:Hey MAINCHAR_NAME, ready to join a club!
+MainChar:That's my friend Java, she works at her families coffee shop name Oracle
+MainChar:She dreams though of making her way to San Fansico, like me
+Java:You should look into joining my club, the programming club, we have a booth
+MainChar:Sure, I'll check it out.
+MainChar:I watch as she walk away to her classroom.
+MainChar:Going back to the booth, every year clubs put out booths on the first day to attrach the freshmen
+MainChar:Getting into a club would be a great way to met some new people, and the programming club would be a good start
+MainChar:I walk over there
+PHP:Hello!
+MainChar:I see a girl wearing lots of buttons and her shirt says echo "hello";
+PHP:Any interest in joining a club, I am the social chair of the programming club
+PHP:My name is PHP
+CHOICE
+a MainChar:Is that some sort of nickname that you gals have?
+b MainChar:What would happen if I were to push a button?
+a1 PHP:I wish
+b1 PHP:Depends on which on, this one I use to input new names into our club database
+a2 MainChar:she didn't seem to want to press it further
+b2 MainChar:she points to a button named add, thinking that maybe there's a camera there to scan the forms, a project they might of worked on
+CHOICE ENDS
+MainChar:The club sounds neat, and I already know Java so sure. Where do you guys meet
+PHP:We meet in room 404 after school
+MainChar:Thank you
+MainChar:Hours later
+MainChar:Well, that was a boring day, just an introduction day to every class, hopefully my first time at the club will got better
+MainChar:Now, where is that room
+MainChar:There it is, room 404
+MainChar:When I step the first thing I noticed is a woman buried in her work
+MainChar:She seems to be busy with a computer and it is hooked up to a little robot
+MainChar:The robot seems to be moving around, the woman though doesn't look up at me
+Java:Good to see you here
+MainChar:I jumped a little as Java came up behind me
+Java:Didn't mean to scare you there, I see that you have met C
+MainChar:I don't know if met is the right word
+Java:Yeah, she can be in her own world with her machines, but she's our senior president
+C:Oh, sorry I didn't see you, I was, yeah, sorry
+MainChar:You're fine, just busy I can see, this coding club after all, you seem to fill the role of that well
+MainChar:Her expression brightens
+C:Thank you, I was just seeing what I could do with this little guy
+CHOICE
+a MainChar:He's a cute little robot
+b MainChar:If I can play with kits like that I think I am already warming up to here
+a1 MainChar:C looks at me a little strange, maybe that wasn't quite right
+b1 Java:Well, that will depend what you want to be doing with yourself here, robotics probably won't be the way to pick up some chicks.
+a2 Java:Good try MAINCHAR_NAME, you could use some help on trying to be smooth
+CHOICE ENDS
+MainChar:I'm just looking to get a footing, not trying to attach someone just yet
+Java:suuurrrreee
+MainChar:despite the playful sarcasm, Java look somewhat disapointed in my answer
+PHP:HERE!
+MainChar:PHP bursted into the room, already showing a stark contrast to C
+C:Hello PHP.
+Java:We're finally all here, lets get down to business
+MainChar:Wait, what, when I signed up for this club I was expecting more like nerdy guys with huge rim glasses.
+MainChar:Well, maybe I could spend time trying to pick up a girl if I'm going to be spending my time here.
+C:PHP, would you mind letting me see the list of new people from the event
+PHP:you'll be disappointed, the only name is already here.
+MainChar:PHP handed a usb to C
+C:Well, we only need four to make this a club so I think this is good
+Java:You are going to stay apart of this club, right MAINCHAR_NAME?
+MainChar:Java eyes seem to twinkle with that last sentence, I am just now noticing stuff?
+MainChar:I don't see the harm, it is something I am interested in.
+Java:You are a life saver
+PHP:That's true, besides, how could we got get the person Java has be saying we should be getting.
+MainChar:Not sure what to make of that I look over at Java
+Java:PHP!, don't be saying stuff like that, I just knew he would come through. He did an awesome build for our middle school track team website
+PHP:Ah, you've done stuff on the web, I want to see if we can learn off each other
+C:I can get a kit ready for you, you sounded interested before in the robot
+Java:I'm making a program for a client to sort their product types, if you want a look
+CHOICE
+a: Work with web pages
+b: look a the robot kit
+c: learn about working with clients
+a1 MainChar:Sure, I still have a lot to learn when it comes to web development, I'm sure to learn more
+b1 MainChar:Sweet, I've always wanted to build one
+c1 MainChar:Clients, I could make money here?
+a2 MainChar:PHP look giddy at me a smiles at Java
+b2 MainChar:C smiles at me and goes to the closet to grab a kit
+c2 MainChar:Java seems to almost have smerk when she beckon's me
+a3 PHP:Awesome, lets start with the club's website
+b3 C:Lets get started with this one
+c3 Java:Yes, everyone likes money and I've been working with the community to find jobs
+a4 MainChar:As I begin working on the website with PHP, I seem to remember more than I thought I would but see out paced me.
+b4 MainChar:The bot was a small one with wheel to just program it to go in a direction and turn, looked perfect
+c4 MainChar:This is for your families coffee shop isn't it
+a5 PHP:I can see why Java wanted you here, you love learning and have a brain that recalls well
+b5 C:You seem to be getting a handle on it, and I'm glad someone here shares a similar passion with code and machines
+c5 Java:Thank you for coming, it means a lot. Now look here, this is how we look to let the user enter in the new stuff they get.
+CHOICE ENDS
+MainChar:I feel like I'm blushing and the other two seem to be looking
+MainChar:A few hours pass and the first day is over
+MainChar:As I make it home, I only smile at thinking about what the future in room 404 will be like.
