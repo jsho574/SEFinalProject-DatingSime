@@ -1,0 +1,31 @@
+MainChar:It's your first day at Generic High School 
+MainChar:The next step in your school career starts here 
+Java:Hey MAINCHAR_NAME, ready to join a club! 
+MainChar:That's my friend Java, she works at her families coffee shop name Oracle 
+MainChar:She dreams though of making her way to San Fansico, like me 
+Java:You should look into joining my club, the programming club, we have a booth 
+MainChar:Sure, I'll check it out. 
+MainChar:I watch as she walk away to her classroom. 
+MainChar:Going back to the booth, every year clubs put out booths on the first day to attrach the freshmen 
+MainChar:Getting into a club would be a great way to met some new people, and the programming club would be a good start 
+MainChar:I walk over there 
+PHP:Hello! 
+MainChar:I see a girl wearing lots of buttons and her shirt says echo "hello"; 
+PHP:Any interest in joining a club, I am the social chair of the programming club 
+PHP:My name is PHP 
+<CHOICE>
+action:2
+Choice:Is that some sort of nickname that you gals have? 
+Choice:What would happen if I were to push a button? 
+</CHOICE>
+<ACTION>
+PHP:I wish 
+MainChar:she didn't seem to want to press it further 
+</ACTION>
+<ACTION>
+PHP:Depends on which on, this one I use to input new names into our club database 
+MainChar:she points to a button named add, thinking that maybe there's a camera there to scan the forms, a project they might of worked on 
+</ACTION>
+MainChar:The club sounds neat, and I already know Java so sure. Where do you guys meet 
+PHP:We meet in room 404 after school 
+MainChar:Thank you 
